@@ -154,7 +154,7 @@
                         "name": "Discrétion",
                         "type": "skill",
                         "data": {
-                            "description": "Éviter de se faire repérer quand vous avez besoin de vous cacher. Les prouesses de Discrétion vous permettre de disparaître au vu et au su de tous, de vous mélanger à la foule, ou de vous déplacer dans les ombres discrètement."
+                            "description": "Éviter de se faire repérer quand vous avez besoin de vous cacher. Les prouesses de Discrétion vous permettent de disparaître au vu et au su de tous, de vous mélanger à la foule, ou de vous déplacer dans les ombres discrètement."
                         }
                     },
                     {
@@ -182,7 +182,7 @@
                         "name": "Intimidation",
                         "type": "skill",
                         "data": {
-                            "description": "Mettre en rogne et instiller des émotions négatives. Grossière et manipulatrice, vous fera passer pour 'gros con'. Les prouesses d'Intimidation pousse vos adversaires à effectuer des actions idiotes, attirer leur attention sur vous, ou effrayer vos ennemis (si ceux-ci peuvent ressentir la peur)."
+                            "description": "Mettre en colère et instiller des émotions négatives. Grossière et manipulatrice, vous fera passer pour 'gros con'. Les prouesses d'Intimidation poussent vos adversaires à effectuer des actions idiotes, attirer leur attention sur vous, ou effrayer vos ennemis (si ceux-ci peuvent ressentir la peur)."
                         }
                     },
                     {
@@ -196,7 +196,7 @@
                         "name": "Observation",
                         "type": "skill",
                         "data": {
-                            "description": "Remarquer des choses, repérer les ennuis avant qu'ils ne surviennent, et tout simplement être perceptif. C'est la contrepartie d'Enquête, qui est plus minutieux et lente. Les prouesses d'Observation améliorent vos sens, vos temps de réaction, et vous rendent plus difficile à surprendre."
+                            "description": "Remarquer des choses, repérer les ennuis avant qu'ils ne surviennent, et tout simplement être perceptif. C'est le complément de la compétence Enquête, qui est plus minutieuse et lente. Les prouesses d'Observation améliorent vos sens, vos temps de réaction, et vous rendent plus difficile à surprendre."
                         }
                     },
                     {
@@ -210,14 +210,14 @@
                         "name": "Relations",
                         "type": "skill",
                         "data": {
-                            "description": "Connaître la bonne personne et créer des liens qui peuvent vous aider. Les prouesses de Relations vous accorde des alliés disponibles et un réseau d'informations où que vous soyez dans le monde."
+                            "description": "Connaître la bonne personne et créer des liens qui peuvent vous aider. Les prouesses de Relations vous accordent des alliés disponibles et un réseau d'informations où que vous soyez dans le monde."
                         }
                     },
                     {
                         "name": "Resources",
                         "type": "skill",
                         "data": {
-                            "description": "Représent les biens matériels ainsi que la capacité à s'en servir. Ce n'est pas toujours sous forme de cash. Cela peut refléter votre capacité à emprunter à des amis ou à piocher dans l'armurerie d'une organisation. Les prouesses de Ressources vous permettent d'utiliser Ressources à la place de Relations ou de Sociabilité ou d'avoir une invocation gratuite supplémentaire du moment que cela rapporte à court terme."
+                            "description": "Représent les biens matériels ainsi que la capacité à s'en servir. Ce n'est pas toujours sous forme d'argent. Cela peut refléter votre capacité à emprunter à des amis ou à piocher dans l'armurerie d'une organisation. Les prouesses de Ressources vous permettent d'utiliser Ressources à la place de Relations ou de Sociabilité ou d'avoir une invocation gratuite supplémentaire du moment que cela rapporte à court terme."
                         }
                     },
                     {
@@ -238,7 +238,7 @@
                         "name": "Volonté",
                         "type": "skill",
                         "data": {
-                            "description": "Représente la force mentale, votre capacité à surmonter les séductions ou éviter les traumatismes. Les prouesses de Volonté vous permettent d'ignorer les conséquences mentales, supporter les douleurs mentales liées aux pouvoirs étranges, et à rester calme face aux intimidations. De plus, un rang de Volonté élevé vous accorde des cases de stress et des conséquences mentales supplémentaires."
+                            "description": "Représente la force mentale, votre capacité à surmonter les tentatives de séductions ou éviter les traumatismes. Les prouesses de Volonté vous permettent d'ignorer les conséquences mentales, supporter les douleurs mentales liées aux pouvoirs étranges, et à rester calme face aux intimidations. De plus, un rang de Volonté élevé vous accorde des cases de stress et des conséquences mentales supplémentaires."
                         }
                     }
                 ]
